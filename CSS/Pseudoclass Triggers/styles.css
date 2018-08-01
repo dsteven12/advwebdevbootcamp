@@ -1,0 +1,12 @@
+h1:hover{
+    color: #007bff;
+}
+
+p:hover {
+    color: #007bff;
+}
+
+#special:hover {
+    background-color: white;
+    color: #007bff;
+}
