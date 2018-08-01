@@ -6,6 +6,10 @@ p:hover {
     color: #007bff;
 }
 
+input:focus {
+    border: 3px solid steelblue;
+}
+
 #special:hover {
     background-color: white;
     color: #007bff;
